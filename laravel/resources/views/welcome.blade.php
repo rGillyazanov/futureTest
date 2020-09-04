@@ -99,7 +99,7 @@
                     <div class="col-12">
                         <div class="d-flex footer-padding">
                             <div class="footer-logo">
-                                <img src="http://futuretest.local/images/logo.png" alt="logo" height="101" width="106">
+                                <img src="{{ asset("images/logo.png") }}" alt="logo" height="101" width="106">
                             </div>
                             <div class="d-flex flex-column">
                                 <div class="d-flex flex-column contact footer_contact">
